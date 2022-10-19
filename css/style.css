@@ -175,6 +175,45 @@ p{
 	font-size: 20px;
 }
 
+#name4{
+	font-family: 'Russo One', sans-serif;
+	color: #6600ff;
+	font-size: 20px;
+	text-shadow: 2px 2px 5px #ff0066;
+}
+
+#name5{
+	font-family: 'Russo One', sans-serif;
+	color: #6600ff;
+	font-size: 20px;
+	text-shadow: 2px 2px 5px #ff0066;
+}
+
+#name6{
+	font-family: 'Russo One', sans-serif;
+	color: #6600ff;
+	font-size: 20px;
+	text-shadow: 2px 2px 5px #ff0066;
+}
+
+#main4{
+	font-family: monospace;
+	color: #6600ff;
+	font-size: 12px;
+}
+
+#main5{
+	font-family: monospace;
+	color: #6600ff;
+	font-size: 12px;
+}
+
+#main6{
+	font-family: monospace;
+	color: #6600ff;
+	font-size: 12px;
+}
+
 #wrapper4{
 	display: grid;
 	grid-template-columns: 33% 34% 33%;
