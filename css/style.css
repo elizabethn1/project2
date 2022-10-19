@@ -1,5 +1,159 @@
+body{
+	background-color: #a0dec0;
+}
+
+h1{
+	text-align: center;
+	color: #ff3399;
+}
+
+h2{
+	text-align: center;
+	color: #194d32;
+}
+
+p{
+	text-align: center;
+}
+
 #main-navbar{
-	background-color: pink;
+	background-color: #c6ecd9;
 	width: 100%;
 	text-align: center;
 }
+
+#navbar-container ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+#navbar-container ul li{
+	float: left;
+}
+
+#navbar-container ul li a{
+	color: #ff3399;
+	padding: 15px 20px;
+	display: block;
+	font-size: 20px;
+}
+
+#navbar-container ul li a:hover{
+	background-color: #ffcce6;
+}
+
+#navbar-container ul li a:link{
+	text-decoration: none;
+}
+
+#onpage{
+	text-decoration: underline;
+}
+
+#skills{
+	width: 800px;
+	height: 160px;
+	font-size: 15px;
+	font-family: monospace;
+	color: #194d32;
+	margin: auto;
+	padding: 30px 80px;
+	border: 3px ridge #c6ecd9;
+}
+
+#experience{
+	width: 800px;
+	height: 250px;
+	font-size: 15px;
+	font-family: monospace;
+	color: #194d32;
+	margin: auto;
+	padding: 30px 80px;
+	border: 3px ridge #c6ecd9;
+}
+
+#education{
+	width: 800px;
+	height: 200px;
+	font-size: 15px;
+	font-family: monospace;
+	color: #194d32;
+	margin: auto;
+	padding: 30px 80px;
+	border: 3px ridge #c6ecd9;
+}
+
+#awards{
+	width: 800px;
+	height: 120px;
+	font-size: 15px;
+	font-family: monospace;
+	color: #194d32;
+	margin: auto;
+	padding: 30px 80px;
+	border: 3px ridge #c6ecd9;
+}
+
+#eca{
+	width: 800px;
+	height: 160px;
+	font-size: 15px;
+	font-family: monospace;
+	color: #194d32;
+	margin: auto;
+	padding: 30px 80px;
+	border: 3px ridge #c6ecd9;
+}
+
+#ginger{
+	height: 270px;
+	width: 250px;
+	border-radius: 25px;
+}
+
+#summer{
+	height: 270px;
+	width: 250px;
+	border-radius: 25px;
+}
+
+#fish{
+	height: 270px;
+	width: 270px;
+	border-radius: 25px;
+}
+
+
+#outer{
+	max-width: 800px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+#wrapper1{
+	display: grid;
+	grid-template-columns: 33% 34% 33%;
+	grid-column-gap: 1em;
+	grid-row-gap: 5em;
+}
+
+#wrapper2{
+	display: grid;
+	grid-template-columns: 33% 34% 33%;
+	grid-column-gap: 1em;
+	grid-row-gap: 5em;
+}
+
+#wrapper3{
+	display: grid;
+	grid-template-columns: 33% 34% 33%;
+	grid-column-gap: 1em;
+	grid-row-gap: 5em;
+}
+
+
+
+
+
