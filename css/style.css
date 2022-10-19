@@ -4,7 +4,8 @@ body{
 
 h1{
 	text-align: center;
-	color: #ff3399;
+	color: #ff33bb;
+	font-family: 'Bree Serif', serif;
 }
 
 h2{
@@ -124,6 +125,13 @@ p{
 	border-radius: 25px;
 }
 
+#blurb1{
+	font-family: 'Russo One', sans-serif;
+	color: #b300b3;
+	font-size: 23px;
+	text-shadow: 4px 4px 2px #bf80ff;
+}
+
 #name1{
 	font-family: 'Bree Serif', serif;
 	color: #6600ff;
@@ -140,6 +148,24 @@ p{
 	font-family: 'Bree Serif', serif;
 	color: #6600ff;
 	font-size: 20px;
+}
+
+#main1{
+	font-family: monospace;
+	color: #6600ff;
+	font-size: 16px;
+}
+
+#main2{
+	font-family: monospace;
+	color: #6600ff;
+	font-size: 16px;
+}
+
+#main3{
+	font-family: monospace;
+	color: #6600ff;
+	font-size: 16px;
 }
 
 #outer1{
@@ -169,10 +195,11 @@ p{
 	grid-row-gap: 5em;
 }
 
-#blurb{
+#blurb2{
 	font-family: 'Bree Serif', serif;
 	color: #bf80ff;
-	font-size: 20px;
+	font-size: 23px;
+	text-shadow: 2px 2px yellow;
 }
 
 #name4{
