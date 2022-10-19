@@ -153,16 +153,10 @@ p{
 	grid-row-gap: 5em;
 }
 
-
-
-
-
-
-/*#outer2{
-	max-width: 800px;
-	width: 50%;
-	margin: 0 auto;
-}*/
+#blurb{
+	font-family: 'Bree Serif', serif;
+	color: #bf80ff;
+}
 
 #wrapper4{
 	display: grid;
@@ -184,18 +178,6 @@ p{
 	grid-column-gap: 1em;
 	grid-row-gap: 5em;
 }
-
-
-
-
-
-/*#vid1{
-	position: relative;
-	margin: auto;
-	left: 50%;
-	top: 50%;
-	transform: translate(-50%, -50%);
-}*/
 
 
 
