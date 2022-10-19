@@ -9,7 +9,6 @@ h1{
 
 h2{
 	text-align: center;
-	color: #194d32;
 }
 
 p{
@@ -125,6 +124,23 @@ p{
 	border-radius: 25px;
 }
 
+#name1{
+	font-family: 'Bree Serif', serif;
+	color: #6600ff;
+	font-size: 20px;
+}
+
+#name2{
+	font-family: 'Bree Serif', serif;
+	color: #6600ff;
+	font-size: 20px;
+}
+
+#name3{
+	font-family: 'Bree Serif', serif;
+	color: #6600ff;
+	font-size: 20px;
+}
 
 #outer1{
 	max-width: 800px;
