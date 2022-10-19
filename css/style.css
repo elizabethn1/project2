@@ -126,7 +126,7 @@ p{
 }
 
 
-#outer{
+#outer1{
 	max-width: 800px;
 	width: 80%;
 	margin: 0 auto;
@@ -153,6 +153,49 @@ p{
 	grid-row-gap: 5em;
 }
 
+
+
+
+
+
+/*#outer2{
+	max-width: 800px;
+	width: 50%;
+	margin: 0 auto;
+}*/
+
+#wrapper4{
+	display: grid;
+	grid-template-columns: 33% 34% 33%;
+	grid-column-gap: 1em;
+	grid-row-gap: 5em;
+}
+
+#wrapper5{
+	display: grid;
+	grid-template-columns: 33% 34% 33%;
+	grid-column-gap: 1em;
+	grid-row-gap: 5em;
+}
+
+#wrapper6{
+	display: grid;
+	grid-template-columns: 33% 34% 33%;
+	grid-column-gap: 1em;
+	grid-row-gap: 5em;
+}
+
+
+
+
+
+/*#vid1{
+	position: relative;
+	margin: auto;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+}*/
 
 
 
