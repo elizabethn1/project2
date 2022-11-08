@@ -61,6 +61,7 @@ p{
 	margin: auto;
 	padding: 30px 80px;
 	border: 3px ridge #c6ecd9;
+	position: relative;
 }
 
 #experience{
