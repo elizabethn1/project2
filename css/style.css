@@ -104,7 +104,7 @@ p{
 	font-size: 15px;
 	font-family: monospace;
 	color: #194d32;
-	margin: auto;
+	margin: auto auto 80px auto;
 	padding: 30px 80px;
 	border: 3px ridge #c6ecd9;
 }
@@ -195,6 +195,7 @@ p{
 	grid-template-columns: 33% 34% 33%;
 	grid-column-gap: 1em;
 	grid-row-gap: 5em;
+	margin-bottom: 40px;
 }
 
 #blurb2{
@@ -265,6 +266,7 @@ p{
 	grid-template-columns: 33% 34% 33%;
 	grid-column-gap: 1em;
 	grid-row-gap: 5em;
+	margin-bottom: 40px;
 }
 
 
